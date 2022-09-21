@@ -1,0 +1,11 @@
+.signup-form{
+    width:35%;
+    height:18.5em;
+    border-radius: 10px;
+}
+
+@media (max-width:700px){
+    .signup-form{
+        width:100%;
+    }
+}
